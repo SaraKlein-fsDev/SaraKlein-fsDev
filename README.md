@@ -1,4 +1,4 @@
-                                                         ## Hi, I'm Sara 👋:
+# **Hi, I'm Sara 👋**
 
  Full-Stack Developer | Sharp logical thinker, highly responsible, and passionate about learning and building impactful web apps.
 
@@ -11,6 +11,6 @@ Angular,C# (.NET), Java, React, Python, Node.js,HTML5, CSS3, JavaScript, Django,
 ---
 
 ## ✉️ Contact Me:
-Email:sari6734448@gmail.com
+Email: sari6734448@gmail.com
 
 
