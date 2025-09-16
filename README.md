@@ -1,4 +1,4 @@
-                                                         ##  Hi, I'm Sara 
+                                                         # **Hi, I'm Sara 👋**
 
  Full-Stack Developer | Sharp logical thinker, highly responsible, and passionate about learning and building impactful web apps.
 
